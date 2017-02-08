@@ -10,6 +10,8 @@ class Admin_client extends CI_Controller {
 
 		$abcd = "new change for commit 4";
 		
+		$abcd = "change in another local";
+		
 		$test = "test for pull git";
 
 		$abc = "new test";
