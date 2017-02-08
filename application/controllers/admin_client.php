@@ -6,7 +6,8 @@ class Admin_client extends CI_Controller {
 
 	public function edit_plan_list()
 
-	{
+	{	
+		$abc = "new test";
 
 		$planname = $this->input->post('txtPlanName');
 
