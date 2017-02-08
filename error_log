@@ -1,0 +1,99 @@
+[22-Sep-2016 11:03:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 976
+[22-Sep-2016 11:03:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 976
+[22-Sep-2016 11:03:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 976
+[22-Sep-2016 11:03:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 976
+[22-Sep-2016 11:03:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 974
+[22-Sep-2016 11:03:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 974
+[22-Sep-2016 11:03:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 974
+[23-Sep-2016 10:41:58 Etc/GMT] PHP Parse error:  syntax error, unexpected ''success' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 870
+[26-Sep-2016 11:18:36 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1123
+[26-Sep-2016 11:20:57 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1124
+[26-Sep-2016 11:20:59 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1124
+[26-Sep-2016 11:21:12 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1123
+[26-Sep-2016 11:22:51 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1121
+[27-Sep-2016 06:26:34 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:26:35 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:27:39 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:41:18 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:42:17 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:42:19 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:43:31 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:44:10 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:44:22 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:44:40 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:46:08 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:46:23 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:46:23 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:46:26 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:46:56 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[27-Sep-2016 06:57:18 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1105
+[01-Oct-2016 09:46:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1452
+[01-Oct-2016 09:47:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1452
+[03-Oct-2016 09:42:46 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1479
+[03-Oct-2016 09:43:15 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1479
+[03-Oct-2016 09:43:16 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1479
+[03-Oct-2016 09:43:23 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1479
+[03-Oct-2016 09:44:40 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1471
+[03-Oct-2016 09:52:04 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 838
+[03-Oct-2016 13:00:38 Etc/GMT] PHP Parse error:  syntax error, unexpected 'like_business' (T_STRING), expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1283
+[03-Oct-2016 13:04:04 Etc/GMT] PHP Parse error:  syntax error, unexpected 'like_business' (T_STRING), expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1284
+[03-Oct-2016 13:04:29 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1236
+[03-Oct-2016 13:04:30 Etc/GMT] PHP Parse error:  syntax error, unexpected 'like_business' (T_STRING), expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1282
+[03-Oct-2016 13:04:32 Etc/GMT] PHP Parse error:  syntax error, unexpected 'like_business' (T_STRING), expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1282
+[05-Oct-2016 11:22:07 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1251
+[05-Oct-2016 12:03:17 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 831
+[05-Oct-2016 12:08:01 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 830
+[06-Oct-2016 04:24:34 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1260
+[06-Oct-2016 04:24:58 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1262
+[06-Oct-2016 04:27:03 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1264
+[06-Oct-2016 04:27:22 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1265
+[06-Oct-2016 04:32:04 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1258
+[06-Oct-2016 04:32:05 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1258
+[06-Oct-2016 04:33:45 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1258
+[06-Oct-2016 05:05:40 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 784
+[06-Oct-2016 05:05:41 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 784
+[06-Oct-2016 05:05:42 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 784
+[06-Oct-2016 05:05:43 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 784
+[06-Oct-2016 05:05:44 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 784
+[06-Oct-2016 06:49:41 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1248
+[06-Oct-2016 07:25:33 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1260
+[06-Oct-2016 10:24:09 Etc/GMT] PHP Parse error:  syntax error, unexpected ''Offer Im' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_storeprocedure.php on line 1650
+[06-Oct-2016 10:26:55 Etc/GMT] PHP Parse error:  syntax error, unexpected ''Offer Im' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_storeprocedure.php on line 1650
+[07-Oct-2016 06:46:27 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1656
+[07-Oct-2016 07:20:43 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/cmexpknw/public_html/ci_test/application/controllers/client_area.php on line 86
+[07-Oct-2016 10:38:15 Etc/GMT] PHP Fatal error:  Call to undefined function get_wpgeo_latitude() in /home/cmexpknw/public_html/ci_test/application/controllers/client_area.php on line 90
+[07-Oct-2016 10:38:20 Etc/GMT] PHP Fatal error:  Call to undefined function get_wpgeo_latitude() in /home/cmexpknw/public_html/ci_test/application/controllers/client_area.php on line 90
+[07-Oct-2016 10:40:05 Etc/GMT] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/cmexpknw/public_html/ci_test/application/controllers/client_area.php on line 184
+[07-Oct-2016 10:40:07 Etc/GMT] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/cmexpknw/public_html/ci_test/application/controllers/client_area.php on line 184
+[07-Oct-2016 10:42:41 Etc/GMT] PHP Fatal error:  Call to undefined function get_wpgeo_latitude() in /home/cmexpknw/public_html/ci_test/application/controllers/client_area.php on line 90
+[07-Oct-2016 11:19:10 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1247
+[07-Oct-2016 11:35:09 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 825
+[07-Oct-2016 13:29:33 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1241
+[07-Oct-2016 13:29:33 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1241
+[10-Oct-2016 05:42:26 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 871
+[10-Oct-2016 05:42:28 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 871
+[10-Oct-2016 05:42:29 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 871
+[10-Oct-2016 05:42:47 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 814
+[10-Oct-2016 05:54:54 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 1244
+[10-Oct-2016 05:55:43 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice_backup.php on line 814
+[10-Oct-2016 08:43:04 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 1655
+[10-Oct-2016 08:46:25 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cmexpknw/public_html/ci_test/application/controllers/webservice.php on line 825
+[18-Oct-2016 11:34:21 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/ci_test/application/views/add_category_admin.php on line 5
+[18-Oct-2016 11:34:24 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/ci_test/application/views/add_category_admin.php on line 5
+[18-Oct-2016 11:34:45 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/ci_test/application/views/add_category_admin.php on line 5
+[18-Oct-2016 11:35:52 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/ci_test/application/views/add_category_admin.php on line 5
+[18-Oct-2016 13:10:06 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/client_business.php on line 1
+[18-Oct-2016 13:10:09 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/client_business.php on line 1
+[18-Oct-2016 13:10:13 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/client_business.php on line 1
+[18-Oct-2016 13:10:32 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/client_business.php on line 1
+[18-Oct-2016 13:10:39 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/client_business.php on line 1
+[18-Oct-2016 13:11:05 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/client_business.php on line 1
+[18-Oct-2016 13:11:06 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/client_business.php on line 1
+[18-Oct-2016 13:11:21 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/client_business.php on line 1
+[18-Oct-2016 13:11:23 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/client_business.php on line 1
+[18-Oct-2016 13:11:23 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/client_business.php on line 1
+[18-Oct-2016 13:11:23 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/client_business.php on line 1
+[18-Oct-2016 13:11:24 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/client_business.php on line 1
+[18-Oct-2016 13:11:24 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/client_business.php on line 1
+[18-Oct-2016 13:12:45 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cmexpknw/public_html/ci_test/application/controllers/client_business.php on line 1
+[19-Oct-2016 04:55:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/cmexpknw/public_html/ci_test/application/views/index.php on line 1
