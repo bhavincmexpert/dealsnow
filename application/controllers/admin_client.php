@@ -7,6 +7,9 @@ class Admin_client extends CI_Controller {
 	public function edit_plan_list()
 
 	{	
+
+		$abcd = "new change for commit 3";
+
 		$abc = "new test";
 
 		$planname = $this->input->post('txtPlanName');
