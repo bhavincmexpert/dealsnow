@@ -7,7 +7,8 @@ class Admin_client extends CI_Controller {
 	public function edit_plan_list()
 
 	{	
-
+                $pull_request = "New pull request";
+		
 		$planname = $this->input->post('txtPlanName');
 
 		$planprice = $this->input->post('txtPlanPrice');
